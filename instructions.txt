@@ -1,0 +1,3 @@
+# To run the speed test with proper library:
+pip install speedtest-cli
+python speed_test.py
